@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38216
     wikipedia: http://en.wikipedia.org/wiki/Fred_Whishaw
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45098#Boris-the-Bear-Hunter
 gutenberg_issued: '2014-03-09'
 gutenberg_type: Text
 identifiers:
