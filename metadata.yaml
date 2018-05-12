@@ -1,0 +1,51 @@
+_repo: Boris-the-Bear-Hunter_45098
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stacey, W. S. (Walter S.)
+    aliases:
+    - Stacey, Walter S.
+    - Stacey, W.S.
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '9723'
+    url: http://www.gutenberg.org/2009/agents/9723
+covers:
+- cover_type: archival
+  image_path: 45098-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whishaw, Frederick
+    aliases:
+    - Whishaw, Frederick J.
+    - Whishaw, Fred
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '38216'
+    url: http://www.gutenberg.org/2009/agents/38216
+    wikipedia: http://en.wikipedia.org/wiki/Fred_Whishaw
+description: ''
+gutenberg_issued: '2014-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bears -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Russia -- Juvenile fiction'
+- !lcsh 'Peter I, Emperor of Russia, 1672-1725 -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Boris the Bear-Hunter
+url: http://www.gutenberg.org/ebooks/45098
